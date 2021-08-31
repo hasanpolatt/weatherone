@@ -15,9 +15,9 @@ const getWeather = (query, setQuery, setWeather) => {
       setWeather(result)
       setQuery("")
       // console.log(result)
-      if (result.cod === "404") {
+      /*if (result.cod === "404") {
         alert(result.message)
-      }
+      }*/
     })
     .catch((err) => {
       console.log(err)
