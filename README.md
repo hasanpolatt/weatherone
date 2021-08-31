@@ -1,4 +1,4 @@
-## H2 [Project URL](https://weather-tau-rouge.vercel.app/)
+## [Project URL](https://weather-tau-rouge.vercel.app/)
 
 # Getting Started with Create React App
 
