@@ -1,4 +1,4 @@
-## [Project URL](https://weather-tau-rouge.vercel.app/)
+## [Project URL](https://weatherone.vercel.app/)
 
 ## Project Preview
 
