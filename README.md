@@ -1,5 +1,9 @@
 ## [Project URL](https://weather-tau-rouge.vercel.app/)
 
+## Project Preview
+
+![WeatherOneGIF](https://user-images.githubusercontent.com/53409354/131669209-24f3d8ad-0596-41b6-811a-4639b3506f35.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
